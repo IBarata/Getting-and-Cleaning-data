@@ -1,7 +1,7 @@
 ###Getting and Cleaning data Project
 
 #Set working directory:
-setwd("C:/Users/Inga/Desktop/Coursera/3_Getting_and_Cleaning_Data")
+setwd("~/Documents/Coursera/UCI HAR Dataset")
 
 #Check if file exists:
 if(!file.exists("./dataProject")){dir.create("./dataProject")}
